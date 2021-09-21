@@ -4,6 +4,8 @@
 # Do Not Forget Message
 It's purpose is to display a message fullscreen on the primary monitor. To be notified that some action should be performed. The message can be closed with the ESC key.
 
+![Screenshot](screenshot.png)
+
 # Download binary
 For Windows (.NET framework 4), [the latest version can be found here](https://github.com/MircoBabin/DoNotForget-Message/releases/latest "Lastest Version").
 
