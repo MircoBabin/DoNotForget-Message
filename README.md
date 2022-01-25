@@ -30,7 +30,7 @@ DoNotForget-Message.exe "c:\utils\MyMessage.txt"
 # Why
 During the day I get some notification via Skype, email, ... that I can't be reached on the mobile workphone. Then I check the phone and see the battery is empty. To prevent this situation I want to get a fullscreen notification after I login into Windows to "Check mobile workphone.". And charge the phone before someone wants to call me.
 
-Via Windows Taskmanager I have a task "after logon" to run: DoNotForget-Message.exe "Check mobile workphone."
+Via Windows Taskscheduler I have a task "after logon" to run: DoNotForget-Message.exe "Check mobile workphone."
 
 # Contributions
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md "contributing") before making any contribution!

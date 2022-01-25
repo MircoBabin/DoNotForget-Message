@@ -6,7 +6,7 @@ All contributions are accepted under [the MIT license](LICENSE.md "license").
 
 For each contribution the following rules apply:
 
-1. The contribution must provide something meaningful to the end user, who is running git-credential-keepasscommand.exe
+1. The contribution must provide something meaningful to the end user, who is running DoNotForget-Message.exe
   * Internal refactorings will not be accepted. They are not meaningful to the end user.
   * Internal reorganisation of the files/maps structure will not be accepted. It is not meaningful to the end user.
   * Adding a Dependency Injection framework like Autofac will not be accepted. It is not meaningful to the end user.  
